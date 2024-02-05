@@ -1,0 +1,5 @@
+{
+    "usernameFieldInput": "#login_form_userName",
+    "passwordFieldInput": "#login_form_password",
+    "signInBtn": "[type='submit']"
+}

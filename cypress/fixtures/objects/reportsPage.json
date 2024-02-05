@@ -1,0 +1,14 @@
+{
+    "reportsMenuBtn": "[href='/reports']",
+    "approvalRateType": "[data-testid='approvalRate']",
+    "batchType": "[value='batch']",
+    "transactionsExportType": "[value='transactionExport']",
+    "approvalRateChart": "[data-testid='approval-linechart']",
+    "approvalRateTable": "[data-testid='approval-table']",
+    "batchLineChart": "[data-testid='line-chart']",
+    "batchTable": "[data-testid='table']",
+    "downloadOrExportBtn": "[data-testid='export-button']",
+    "pdfReportBtn": "[data-testid='PDF-Report-Button']",
+    "excelReportBtn": "[data-testid='Excel-Report-Button']"
+
+}

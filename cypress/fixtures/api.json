@@ -1,0 +1,5 @@
+{
+    "baseApiUrl": "https://payment-api.uat.sandbox-netvalve.com/transaction",
+    "postSaleUrl": "https://payment-api.uat.sandbox-netvalve.com/sale",
+    "postAuthorizeUrl": "https://payment-api.uat.sandbox-netvalve.com/authorize"
+}
